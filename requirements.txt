@@ -1,0 +1,17 @@
+fastapi==0.110.0
+pydantic==2.6.4
+uvicorn
+streamlit==1.33.0
+python-dotenv
+
+langchain
+langchain_community
+langgraph
+langchain-cohere
+faiss-cpu
+pypdf
+python-docx
+docx2txt
+python-dotenv
+python-multipart
+requests
